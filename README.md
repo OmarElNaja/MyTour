@@ -30,6 +30,8 @@ Or they can type the two street names that define each intersection:
 
 ### Darkmode
 
+![MyTour Demo](demo/darkmode.gif)
+
 
 
 
