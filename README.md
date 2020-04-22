@@ -39,6 +39,7 @@ Users can use the interface to find the shortest path between two points. The A*
 ![MyTour Demo](demo/find_path_click.gif)
 
 Or they can type the two street names that define each intersection:
+
 ![MyTour Demo](demo/find_path_type.gif)
 
 ### Darkmode
