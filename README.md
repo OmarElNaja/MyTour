@@ -11,22 +11,35 @@ his/her list of daily deliveries.
 ### Zooming and Moving Around
 Users can zoom in and out and move around to explore a city.
 
+![MyTour Demo](demo/zoom_move.gif)
+
 ### Showing Physical Features
 #### Showing Points of Interest (POI)
 
+![MyTour Demo](demo/show_poi.gif)
+
 #### Showing Subways
+
+![MyTour Demo](demo/subway.gif)
 
 ### Finding
 #### Finding Streets
 Users can search for streets in a city. Minor spelling mistakes will not prevent the correct street being found.
 
+![MyTour Demo](demo/find_street.gif)
+
 #### Finding POI
 Users can search for POI in a city. Minor spelling mistakes will not prevent the correct POI being found.
+
+![MyTour Demo](demo/find_poi.gif)
 
 #### Finding Paths
 Users can use the interface to find the shortest path between two points. The A* path-finding algorithm is used to find this path efficiently. Users have the option to click on the starting and ending intersections:
 
+![MyTour Demo](demo/find_path_click.gif)
+
 Or they can type the two street names that define each intersection:
+![MyTour Demo](demo/find_path_type.gif)
 
 ### Darkmode
 
