@@ -9,13 +9,19 @@ his/her list of daily deliveries.
 
 ## Demo
 ### Zooming and Moving Around
+Users can zoom in and out and move around to explore a city.
 
 ### Finding
 #### Finding Streets
+Users can search for streets in a city. Minor spelling mistakes will still lead to the correct street being found.
 
 #### Finding Points of Interest (POI)
+Users can search for POI in a city. Minor spelling mistakes will still lead to the correct POI being found.
 
 #### Finding Paths
+Users can use the interface to find the shortest path between two points. They have the option to click on the starting and ending intersections:
+
+They can also type the two street names of each intersection:
 
 ### Darkmode
 
