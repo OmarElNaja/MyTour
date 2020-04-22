@@ -19,9 +19,9 @@ Users can search for streets in a city. Minor spelling mistakes will not prevent
 Users can search for POI in a city. Minor spelling mistakes will not prevent the correct POI being found.
 
 #### Finding Paths
-Users can use the interface to find the shortest path between two points. They have the option to click on the starting and ending intersections:
+Users can use the interface to find the shortest path between two points. The A* path-finding algorithm is used to find this path efficiently. Users have the option to click on the starting and ending intersections:
 
-They can also type the two street names of each intersection:
+Or they can type the two street names that define each intersection:
 
 ### Darkmode
 
