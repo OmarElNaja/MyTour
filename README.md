@@ -8,6 +8,8 @@ MyTour is a Geographic Information System (GIS) software program that queries an
 his/her list of daily deliveries.
 
 ## Demo
+This demo shows how the application can be used to navigate the map of Toronto.
+
 ### Zooming and Moving Around
 Users can zoom in and out and move around to explore a city.
 
