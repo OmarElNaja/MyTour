@@ -8,3 +8,17 @@ MyTour is a Geographic Information System (GIS) software program that queries an
 his/her list of daily deliveries.
 
 ## Demo
+### Zooming and Moving Around
+
+### Finding
+#### Finding Streets
+
+#### Finding Points of Interest (POI)
+
+#### Finding Paths
+
+### Darkmode
+
+### Subways
+
+
