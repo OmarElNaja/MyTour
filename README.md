@@ -11,11 +11,16 @@ his/her list of daily deliveries.
 ### Zooming and Moving Around
 Users can zoom in and out and move around to explore a city.
 
+### Showing Physical Features
+#### Showing Points of Interest (POI)
+
+#### Showing Subways
+
 ### Finding
 #### Finding Streets
 Users can search for streets in a city. Minor spelling mistakes will not prevent the correct street being found.
 
-#### Finding Points of Interest (POI)
+#### Finding POI
 Users can search for POI in a city. Minor spelling mistakes will not prevent the correct POI being found.
 
 #### Finding Paths
@@ -25,6 +30,7 @@ Or they can type the two street names that define each intersection:
 
 ### Darkmode
 
-### Subways
+
+
 
 
