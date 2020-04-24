@@ -30,7 +30,7 @@ Users can search for streets in a city. Minor spelling mistakes will not prevent
 
 ![MyTour Demo](demo/find_street.gif)
 
-#### Finding POI
+#### Finding Points of Interest (POI)
 Users can search for POI in a city. Minor spelling mistakes will not prevent the correct POI being found.
 
 ![MyTour Demo](demo/find_poi.gif)
